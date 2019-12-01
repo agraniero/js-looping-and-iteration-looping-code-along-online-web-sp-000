@@ -1,5 +1,5 @@
 let names = []
 
-function writeCards() {
+function writeCards(names) {
   
 }
