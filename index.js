@@ -1,3 +1,5 @@
+let names = []
+
 function writeCards() {
   
 }
