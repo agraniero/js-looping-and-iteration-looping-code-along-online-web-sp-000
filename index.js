@@ -6,7 +6,7 @@ function writeCards(names, event) {
   return cards;
 }
 
-function countDown() {
+function countDown(num) {
   let i=0;
   
 }
